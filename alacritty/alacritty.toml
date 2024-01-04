@@ -1,0 +1,11 @@
+shell = ""
+
+[font]
+size = 24.0
+#family = "JerBrainsMonoLN Nerd Font Mono"
+normal = { family = "JetBrainsMonoNL Nerd Font Mono", style = "ExtraLight" } 
+
+[window]
+startup_mode = "Maximized"
+opacity = 0.9
+
